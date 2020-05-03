@@ -1,2 +1,1 @@
-# WinDogePlays-osu-Skins
-My osu! skins.
+# WinDogePlays osu! Skins
