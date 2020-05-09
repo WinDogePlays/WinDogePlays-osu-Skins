@@ -4,8 +4,9 @@
 
 # If you are having problems with the skins DM me on Discord RealWinDogePlays#8633
 
-MM/DD/YY 00:00 AM/PM
-5/9/2020 Third Update: Added ThePoon skin! 
+MM/DD/YY Update name: Update description
+
+5/9/2020 Fourth Update: fixed small things 
 
 # [TP HD (release 3)](https://imgcc.xyz/175o/jANUIr)
 ![](https://i.imgur.com/c2fAz6N.jpg)
