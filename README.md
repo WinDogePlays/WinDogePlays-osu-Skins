@@ -6,7 +6,10 @@
 
 MM/DD/YY Update name: Update description
 
-5/9/2020 Sixth Update: Fixed some text and added slightly+edited+Stoof+Pro+Skin
+5/10/2020 Seventh Update: Added Bartek22830xOribiaHime skin.
+
+# [Bartek22830xOribiaHime](https://doc-0s-ac-docs.googleusercontent.com/docs/securesc/cvjt0a6muq4trm51agvb92hvudqnfrg0/92la0ii9nrst4fvnsab01q4q2apfh30u/1586094225000/17766303647215436752/14925473565805092763/1R5h301ohvOtVS0NskxQnLyM0M3DofOw6?e=download&authuser=0&nonce=pb4u3v3299uue&user=14925473565805092763&hash=61q6m7jjufs431n38s7ae770o1kv5dmq)
+![](https://osu.ppy.sh/ss/14892758/57ab)
 
 # [slightly+edited+Stoof+Pro+Skin](https://puu.sh/zeiI0/83e6d3cb32.osk)
 ![](https://akatsuki.pw/ss/9W7IFDP3.png)
