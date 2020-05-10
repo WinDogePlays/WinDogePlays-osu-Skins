@@ -2,11 +2,14 @@
 
 # I will try to update the skins as much as I can.
 
-# If you are having problems with the skins DM me on Discord RealWinDogePlays#8633
+# If there are missing skins or you have some problems with them DM me on Discord RealWinDogePlays#8633
 
 MM/DD/YY Update name: Update description
 
-5/9/2020 Fifth Update: Added Yugen skin.
+5/9/2020 Sixth Update: Fixed some text and added slightly+edited+Stoof+Pro+Skin
+
+# [slightly+edited+Stoof+Pro+Skin](https://puu.sh/zeiI0/83e6d3cb32.osk)
+![](https://akatsuki.pw/ss/9W7IFDP3.png)
 
 # [- YUGEN FINAL SD -](https://tetsui.s-ul.eu/zhiuRlldHkr7Ub5K)
 ![](https://osu.ppy.sh/ss/14889935/b1a5)
