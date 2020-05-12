@@ -6,7 +6,7 @@
 
 MM/DD/YY Update name: Update description
 
-5/12/2020 Eigth Update: Added FrenZ's skin v1.2
+5/12/2020 Ninth Update: Fixed small thing.
 
 # [FrenZ's skin v1.2](https://www.dropbox.com/s/e42watnmv4pkf0g/FrenZ%27s%20skin%20v1.2.osk?dl=0)
 ![](https://akatsuki.pw/ss/R54OCMZ1.png)
@@ -22,9 +22,6 @@ MM/DD/YY Update name: Update description
 
 # [TP HD (release 3)](https://imgcc.xyz/175o/jANUIr)
 ![](https://i.imgur.com/c2fAz6N.jpg)
-
-# [Cookiezi 23 2017-08-31 DT](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2023%202017-08-31%20DT.osk)
-![](https://osu.ppy.sh/ss/14884588/d1be)
 
 # [super explicit skin that i made y'know](http://www.mediafire.com/file/93o6ywnc95dbd33/super_explicit_skin_that_i_made_y%2527know.rar/file)
 ![](https://osu.ppy.sh/ss/14884640/69d8)
