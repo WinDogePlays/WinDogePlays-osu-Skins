@@ -6,7 +6,10 @@
 
 MM/DD/YY Update name: Update description
 
-5/10/2020 Seventh Update: Added Bartek22830xOribiaHime skin.
+5/12/2020 Eigth Update: Added FrenZ's skin v1.2
+
+# [FrenZ's skin v1.2](https://www.dropbox.com/s/e42watnmv4pkf0g/FrenZ%27s%20skin%20v1.2.osk?dl=0)
+![](https://akatsuki.pw/ss/R54OCMZ1.png)
 
 # [Bartek22830xOribiaHime](https://doc-0s-ac-docs.googleusercontent.com/docs/securesc/cvjt0a6muq4trm51agvb92hvudqnfrg0/92la0ii9nrst4fvnsab01q4q2apfh30u/1586094225000/17766303647215436752/14925473565805092763/1R5h301ohvOtVS0NskxQnLyM0M3DofOw6?e=download&authuser=0&nonce=pb4u3v3299uue&user=14925473565805092763&hash=61q6m7jjufs431n38s7ae770o1kv5dmq)
 ![](https://osu.ppy.sh/ss/14892758/57ab)
