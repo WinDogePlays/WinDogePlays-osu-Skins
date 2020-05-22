@@ -4,9 +4,11 @@
 
 # If there are missing skins or you have some problems with them DM me on Discord RealWinDogePlays#8633
 
+# https://skins.osuck.net/index.php?newsid=348
+
 MM/DD/YY Update name: Update description
 
-5/12/2020 Ninth Update: Fixed small thing.
+5/12/2020 Ninth Update: Fixed small thing
 
 # [FrenZ's skin v1.2](https://www.dropbox.com/s/e42watnmv4pkf0g/FrenZ%27s%20skin%20v1.2.osk?dl=0)
 ![](https://akatsuki.pw/ss/R54OCMZ1.png)
